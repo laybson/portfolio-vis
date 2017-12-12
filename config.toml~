@@ -1,4 +1,4 @@
-baseURL = "https://laybson.github.io/portfolio-vis/"
+baseURL = "http://example.com/"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
